@@ -9,3 +9,7 @@ do {
     console.log(sum)
 }while (index < numbers.length)
 console.log(sum)
+
+
+//++
+
